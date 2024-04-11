@@ -10,6 +10,10 @@ It facilitates the rapid development of **Node-based web applications**
 
 To get started with **Express**, you first need to have **Node.js** installed on your computer
 
+https://nodejs.org/en
+
+![image](https://github.com/luiscoco/NodeJS_Express_Introduction/assets/32194879/0e3c91c4-9a38-4f2a-affe-789a39aa6033)
+
 Once you have **Node.js** installed, you can install **Express** in your project directory using **npm** (Node Package Manager).
 
 **Create a new directory** for your project and navigate into it:
